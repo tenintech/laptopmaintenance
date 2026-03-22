@@ -26,7 +26,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 - Precision screwdriver set
 - Thermal paste
-- Cleaning materials (compressed air / lint-free cloth)
+- Cleaning materials (compressed air / lint-free cloth/ IPA)
 - Replacement case screws
 - Device Manager and system drivers
 
