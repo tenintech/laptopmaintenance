@@ -13,11 +13,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+- ### [YouTube: Acer Laptop Maintenance Demo](https://www.youtube.com)
 
 <h2>Environment</h2>
 
-- Personal laptop (Windows-based system)
+- Acer Swift LC6-322 (Windows-based system)
 - Local administrator access
 - Manufacturer drivers and system utilities
 
